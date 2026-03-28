@@ -48,22 +48,27 @@ To simulate movement and direction tracking.
 Google Maps–style interface
 AI-like decision animations
 Real-time route visualization
+
 📊 5. Dashboard Analytics
 Distance traveled
 Obstacles detected
 Navigation history
+
 ⚡ 6. Offline Support (PWA)
 Works without internet
 Installable like a mobile app
 Uses:
 manifest.json
 Service Worker
+
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Audio: Web Audio API (Stereo Panning)
 Voice Recognition: Web Speech API
 Sensors: Device Motion API
+
 Offline Support: Service Workers (PWA)
+
 📁 Project Structure
 NavSight/
 │
@@ -102,10 +107,12 @@ Service Worker
 ⚠️ First load requires internet
 
 🧪 Future Enhancements
+
 Real AI obstacle detection (Computer Vision)
 GPS-based real navigation
 Integration with wearable devices
 Emergency SOS system
+
 🏆 Hackathon Value
 
 ✔ Innovative (Audio-based navigation)
