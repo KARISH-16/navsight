@@ -1,0 +1,5 @@
+{
+  "name": "NavSight",
+  "description": "A minimal navigation assistant prototype for visually impaired users with audio guidance.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
